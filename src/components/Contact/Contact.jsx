@@ -12,7 +12,7 @@ function Contact() {
       <div className="container mx-auto items-center text-center px-3">
         <h1 className="text-5xl font-semibold text-blue-500">Contact</h1>
         <div className="flex flex-col gap-3 mt-3">
-          <h2 className="text-2xl font-semibold">
+          <h2 className="sm:text-2xl text-md font-semibold">
             send me an email if you want to connect! Additionally
           </h2>
           <div className="flex items-center justify-center gap-2">
